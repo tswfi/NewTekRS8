@@ -98,13 +98,19 @@ all released: ~3FE
 
 ## pots
 
-pot a: ~500 - ~5FF
-pot b: ~600 - ~6FF
-pot c: ~700 - ~7FF
+| pot | value range |
+| :-------:| :-----: |
+| pot a | ~500 - ~5FF |
+| pot b | ~600 - ~6FF |
+| pot c | ~700 - ~7FF |
+
+values loop around
 
 ## fader
 
-fade: ~400 - 4ff
+| pot | value range |
+| :-------:| :-----: |
+| fade | ~400 - 4ff |
 
 ### fader leds
 
