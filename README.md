@@ -114,9 +114,9 @@ values loop around
 
 ### fader leds
 
-TODO!
+Fader leds are bit positions 0 and 2.
 
-looks like the last two bits of `other buttons` is the top and bottom led for the slider
+1011 is lower led and 1110 is upper led
 
 # disco
 
